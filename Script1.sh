@@ -1,3 +1,4 @@
 echo "Welkom in DevOps!"
 echo "Dit komt van GitHub !!!!"
-echo "Nu werkt het wel"
+echo "Ik bas dit ook aan"
+echo "Dit is regel 4"
